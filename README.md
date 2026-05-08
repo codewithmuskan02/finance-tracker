@@ -90,10 +90,6 @@ Contributions are welcome!
 2. Create a new branch (feature/your-feature)  
 3. Commit changes  
 4. Push and open a Pull Request  
-
----
-
-📜 License
-This project is licensed under the MIT License – feel free to use and modify.
+ 
 
 
